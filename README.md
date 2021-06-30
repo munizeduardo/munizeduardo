@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @munizeduardo
+- 👀 I’m interested in InfoSec, Music, Technology and Food!
+- 🌱 I’m currently learning about PenTesting and security related subjects!
+- 💞️ I’m looking to collaborate on any projects I can!
+- 📫 How to reach me? I'm du#4906 on Discord and you can also e-mail me on thirteenwannabegood@gmail.com
