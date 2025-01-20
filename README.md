@@ -30,15 +30,18 @@ Currently an Intern at Compass UOL.
 ### 🌱 Currently learning:
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-#### 🗂️ My main repos:
+#### 🗂️ main projects:
+<a href="https://github.com/amandazzoc/Processamento-notas-fiscais-llm">
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=amandazzoc&repo=Processamento-notas-fiscais-llm&&theme=dark" />
+</a>
 <a href="https://github.com/munizeduardo/Ignite-Shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=munizeduardo&repo=Ignite-Shop&&theme=dark" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=munizeduardo&repo=Ignite-Shop&&theme=dark" />
 </a>
 <a href="https://github.com/munizeduardo/Coffee-Delivery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=munizeduardo&repo=Coffee-Delivery&&theme=dark" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=munizeduardo&repo=Coffee-Delivery&&theme=dark" />
 </a>
 <a href="https://github.com/munizeduardo/Ignite-UI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=munizeduardo&repo=Ignite-UI&&theme=dark" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=munizeduardo&repo=Ignite-UI&&theme=dark" />
 </a>
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> My GitHub stats: 
