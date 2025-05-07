@@ -4,7 +4,7 @@
 
 I'm a software engineer passionate about arts, food, technology and problem solving. If it's a good challenge, it's a good time for me. Sharing knowledge is the way for a brighter future.
 
-Currently an Intern at Compass UOL.
+Currently looking for new opportunities!
 
 
 
